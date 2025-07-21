@@ -1,0 +1,1511 @@
+customer_idfirst_namelast_name email                  phoneaddresscity        statezip_codeageregistration_datetotal_orderstotal_spentcustomer_status
+                                                      251-
+                                                      485- 5601
+CUST00001Helen      Anderson customer1@email.com      8588 Main St Los AngelesIL      67246 742023-07-27                  6     149.72Premium
+                                                      265-
+                                                      166- 5621
+CUST00002Elizabeth Hernandezcustomer2@email.com       2724 Main St Phoenix    OH      62824 182025-04-14                38 3067.78Inactive
+                                                      754- 6831
+                                                      214- Park
+CUST00003Amanda Rodriguez customer3@email.com         7731 Blvd    San Jose GA        57714 492024-08-26                  2     3158.6Premium
+                                                      540- 1717
+                                                      934- Oak
+CUST00004Elizabeth Miller      customer4@email.com    4931 Ave     San Jose OH        72599 692023-09-25                27 3989.49Inactive
+                                                      993- 2313
+                                                      737- Oak
+CUST00005Sarah      Martinez   customer5@email.com    5879 Ave     Fort Worth WA      12242 252023-02-28                50      4246.6Active
+                                                      665-
+                                                      249- 4019
+CUST00006Matthew Martin        customer6@email.com    1081 Elm Dr Phoenix     GA      64841 372024-03-17                27      2573.4Active
+                                                      316-
+                                                      990- 693
+CUST00007William    Jackson    customer7@email.com    5456 Pine RdPhiladelphiaIL      78581 472023-01-22                32 2489.04Active
+                                                      894- 4347
+                                                      181- Park
+CUST00008Robert     Garcia     customer8@email.com    7480 Blvd    Phoenix    TX      68340 302025-01-12                  6     809.63Premium
+                                                      651-
+                                                      728- 3987
+CUST00009Michelle   Gonzalez customer9@email.com      6330 Pine RdSan Jose NY         32576 272025-06-13                22      702.75Inactive
+                                                      901- 4488
+                                                      116- Park
+CUST00010Ashley     Martinez   customer10@email.com   4896 Blvd    Columbus NJ        46775 552024-07-28                10 3871.04Premium
+                                                      904- 1658
+                                                      206- Park
+CUST00011Michael    Smith      customer11@email.com   7731 Blvd    San AntonioCA      83189 472025-01-23                19      2359.7Inactive
+                                                      635-
+                                                      251- 2237
+CUST00012Helen      Martin     customer12@email.com   1940 Elm Dr San Diego FL        95202 222023-12-18                41 1984.24Premium
+                                                      636-
+                                                      364- 6720
+CUST00013Helen      Garcia     customer13@email.com   5891 Pine RdColumbus NY         80358 772024-09-18                28      185.52Inactive
+                                                      460-
+                                                      251- 4162 San
+CUST00014Emily      Hernandezcustomer14@email.com     9802 Pine RdFrancisco NY        10934 592024-12-04                33 3010.05Inactive
+                                                      799-
+                                                      914- 7354
+CUST00015Chris      Wilson     customer15@email.com   4263 Main St Los AngelesIL      97516 472023-06-21                12 4167.83Inactive
+                                                      130-
+                                                      151- 6370 San
+CUST00016Robert     Williams   customer16@email.com   3913 Main St Francisco MA       71872 192024-11-27                12 2669.37Premium
+                                                      424-
+                                                      632- 950
+CUST00017John       Gonzalez customer17@email.com     6254 Elm Dr Houston     NJ      16961 382024-11-24                17 2701.32Active
+                                                      197-
+                                                      319- 4625
+CUST00018Lisa       Martinez   customer18@email.com   4885 Pine RdColumbus MA         67964 222024-12-23                42 3700.03Active
+                                                      749- 2670
+                                                      451- Park
+CUST00019Lisa       Jones      customer19@email.com   6856 Blvd    San Diego OH       43569 432022-12-04                46      476.81Inactive
+                                                      625-
+                                                      585- 1417
+CUST00020Lisa       Taylor     customer20@email.com   6070 Elm Dr JacksonvilleOH      78729 712023-08-25                27 2687.14Inactive
+                                                      108- 1514
+                                                      731- Oak
+CUST00021William    Miller     customer21@email.com   9974 Ave     Dallas     GA      79430 332025-02-11                32 2432.37Premium
+                                                      876- 7037
+                                                      477- Oak
+CUST00022Michelle   Garcia     customer22@email.com   9245 Ave     San Diego NY       79191 432024-05-27                12 4230.14Inactive
+                                                      423- 708
+                                                      477- Park
+CUST00023Helen      Martin     customer23@email.com   6351 Blvd    San Diego TX       47325 622023-11-08                29 2956.67Premium
+                                                      206-
+                                                      260- 7545
+CUST00024Sarah      Brown      customer24@email.com   9819 Pine RdSan Diego WA        63471 352022-11-01                27 2850.68Inactive
+                                                      627- 4033
+                                                      140- Oak
+CUST00025Richard    Brown      customer25@email.com   9760 Ave     Dallas     TX      35060 382025-06-26                  5     800.98Active
+                                                      146- 9729
+                                                      547- Park
+                                                      4240 Blvd
+CUST00026Jennifer   Garcia     customer26@email.com                San AntonioNJ      64861 292023-11-18                23 3474.33Active
+                                                      558-
+                                                      802- 3558
+CUST00027Daniel     Moore      customer27@email.com   4217 Main St Los AngelesVA      80675 712023-03-01                  7 4729.21Inactive
+                                                      859-
+                                                      372- 5782 San
+CUST00028Daniel     Davis      customer28@email.com   6732 Elm Dr Francisco GA        97792 442024-02-06                38 2766.04Inactive
+                                                      971-
+                                                      104- 9973
+CUST00029Michelle   Lopez      customer29@email.com   3013 Main St Houston    IL      74535 482024-03-20                23 4100.68Active
+                                                      985-
+                                                      989-   9404
+CUST00030Lisa       Gonzalez customer30@email.com     3823   Pine RdColumbus TX       53223 632023-04-04   44    820.34Active
+                                                      827-
+                                                      719-   3903
+CUST00031James      Rodriguez customer31@email.com    9462   Pine RdAustin       NY   26916 412023-06-21   28   2262.84Inactive
+                                                      162-
+                                                      540-   9712 San
+CUST00032Jessica    Moore      customer32@email.com   1520   Main St Francisco   WA   22547 782024-06-23   11   2115.43Active
+                                                      199-
+                                                      532-   2094
+CUST00033Lisa       Williams   customer33@email.com   1385   Pine RdAustin      MA    40413 542023-05-02   16   1313.56Active
+                                                      371-   5902
+                                                      869-   Park
+CUST00034Helen      Martin     customer34@email.com   8677   Blvd   Chicago     FL    88126 472025-03-17    8   3591.72Inactive
+                                                      889-   6353
+                                                      716-   Park
+CUST00035David      Wilson     customer35@email.com   7250   Blvd   San AntonioPA     62385 332022-11-17   33   3040.91Inactive
+                                                      717-   3080
+                                                      883-   Park
+CUST00036Jennifer   Brown      customer36@email.com   3385   Blvd   Phoenix     CA    58213 302023-08-25    9   4713.77Inactive
+                                                      584-   4837
+                                                      974-   Oak
+CUST00037William    Smith      customer37@email.com   1624   Ave    PhiladelphiaIL    15740 452023-02-24   12   2133.43Inactive
+                                                      465-
+                                                      674-   6104
+CUST00038Matthew Jackson       customer38@email.com   5468   Main St PhiladelphiaPA   35835 212025-07-03   36   3417.13Active
+                                                      283-   7269
+                                                      369-   Park
+CUST00039Ashley     Moore      customer39@email.com   2900   Blvd    San Jose TX      93263 482023-11-11   14     940.7Premium
+                                                      190-
+                                                      344-   574
+CUST00040Lisa       Smith      customer40@email.com   9269   Main St Fort Worth WA    24785 462024-02-10   22   3335.61Premium
+                                                      526-
+                                                      301-   2143
+CUST00041John       Martinez   customer41@email.com   7829   Main St JacksonvilleTX   96171 252023-08-12   17   3478.21Premium
+                                                      383-   9849
+                                                      539-   Park
+CUST00042Amanda Taylor         customer42@email.com   5689   Blvd    Fort Worth PA    66528 322025-01-19   20   3930.67Inactive
+                                                      610-
+                                                      623-   2451
+CUST00043Lisa       Thomas     customer43@email.com   3552   Pine RdNew York     FL   95354 372023-06-20    7   2059.73Premium
+                                                      885-
+                                                      382-   5716
+CUST00044Lisa       Anderson customer44@email.com     3688   Pine RdColumbus VA       48707 612023-01-24   16   3007.61Premium
+                                                      633-
+                                                      346-   8670
+CUST00045Michael    Davis      customer45@email.com   6581   Elm Dr San Diego PA      24295 642022-11-25    5   3532.64Inactive
+                                                      457-
+                                                      593-   563
+CUST00046Sarah      Gonzalez customer46@email.com     4153   Pine RdSan Jose     GA   88325 602024-06-12   35   1196.53Premium
+                                                      960-
+                                                      931-   7714
+CUST00047Jennifer   Williams   customer47@email.com   2231   Elm Dr JacksonvilleNJ    50007 792023-02-18   33   3611.56Premium
+                                                      582-
+                                                      983-   9829
+CUST00048Lisa       Anderson customer48@email.com     3811   Pine RdLos AngelesMI     14795 772025-01-20   29   4283.59Active
+                                                      554-
+                                                      719-   1256
+CUST00049Chris      Rodriguez customer49@email.com    6056   Elm Dr Austin       NC   96448 722024-04-13   48   1279.15Premium
+                                                      278-
+                                                      875-   4736
+CUST00050Robert     Williams   customer50@email.com   8287   Main St JacksonvilleTX   81124 672024-04-18    8   4412.45Inactive
+                                                      392-   6627
+                                                      383-   Oak
+CUST00051Sarah      Martin     customer51@email.com   5587   Ave     New York FL      94754 632023-03-15   16    355.36Inactive
+                                                      352-
+                                                      146-   962
+                                                      3627   Main St
+CUST00052Robert     Taylor     customer52@email.com                    Austin    IL   66226 602024-07-22   14    492.69Active
+                                                      533-
+                                                      433-   7333
+CUST00053Michelle   Hernandezcustomer53@email.com     4030   Elm Dr San Diego AZ      45921 682024-05-22   17    105.98Premium
+                                                      287-
+                                                      634-   8221
+CUST00054Chris      Wilson     customer54@email.com   8305   Pine RdDallas       TX   91632 182024-04-05   18   1684.34Premium
+                                                      732-
+                                                      259-   6089
+CUST00055Jennifer   Garcia     customer55@email.com   5777   Main St San AntonioCA    47614 712023-06-09   38   4922.78Active
+                                                      612-
+                                                      433-   5109
+CUST00056Helen      Rodriguez customer56@email.com    5041   Pine RdSan Diego MI      99989 392023-07-17    8   2186.04Active
+                                                      740-   6564
+                                                      830-   Oak
+CUST00057William    Gonzalez customer57@email.com     2055   Ave    Fort Worth NJ     11192 482024-01-21   41    2730.2Premium
+                                                      101-
+                                                      670-   3482
+CUST00058James      Martin     customer58@email.com   8307   Main St Fort Worth FL     86273 292024-02-24   34   2858.54Active
+                                                      168-
+                                                      811-   5281
+CUST00059Sarah      Gonzalez customer59@email.com     2851   Pine RdFort Worth NC      11077 752024-07-19   37    464.55Premium
+                                                      270-
+                                                      933-   6290
+CUST00060Elizabeth Moore       customer60@email.com   9629   Elm Dr   Fort Worth MA    57946 712024-04-30   43     593.8Active
+                                                      525-   6470
+                                                      368-   Park
+CUST00061Ashley     Taylor     customer61@email.com   3634   Blvd     Austin      MA   51162 292023-09-13   16   1078.91Inactive
+                                                      741-   9698
+                                                      229-   Park
+CUST00062Michael    Anderson customer62@email.com     8031   Blvd     Fort Worth CA    95366 232025-06-06   32    621.06Inactive
+                                                      157-   8167
+                                                      701-   Oak
+CUST00063Lisa       Miller     customer63@email.com   3112   Ave      Fort Worth GA    24166 722023-10-25   22   3470.66Active
+                                                      466-   6291
+                                                      363-   Oak      San
+CUST00064Richard    Garcia     customer64@email.com   6206   Ave      Francisco   FL   72730 622023-02-07    1    1933.9Premium
+                                                      628-
+                                                      491-   1616
+CUST00065William    Jackson    customer65@email.com   6457   Pine RdChicago       GA   43615 302024-11-07    9   1745.81Premium
+                                                      474-
+                                                      808-   6493
+CUST00066Ashley     Martinez   customer66@email.com   4425   Elm Dr San Diego TX       73398 422025-01-31   27   1391.67Premium
+                                                      866-   830
+                                                      308-   Oak
+CUST00067Lisa       Thomas     customer67@email.com   4871   Ave    Dallas    FL       49433 542025-03-06    9   4131.71Active
+                                                      516-
+                                                      560-   9298
+CUST00068Richard    Martinez   customer68@email.com   3197   Elm Dr Columbus MI        25472 752024-11-19   32   4413.63Active
+                                                      455-   3559
+                                                      920-   Oak
+CUST00069John       Martin     customer69@email.com   5516   Ave    San Jose CA        37893 452023-03-14   28   4714.49Inactive
+                                                      141-
+                                                      300-   3387
+CUST00070Michael    Smith      customer70@email.com   2918   Main St San AntonioWA     41985 742024-01-24   30   2949.51Premium
+                                                      481-   3269
+                                                      767-   Oak
+CUST00071Richard    Hernandezcustomer71@email.com     9680   Ave     Fort Worth FL     31009 732022-12-31   36    348.28Premium
+                                                      976-   5361
+                                                      860-   Park
+CUST00072James      Lopez      customer72@email.com   3880   Blvd    Los AngelesCA     74982 182024-11-19   50   4687.35Inactive
+                                                      631-
+                                                      728-   1324
+CUST00073Michael    Garcia     customer73@email.com   5571   Elm Dr Fort Worth MA      39263 222025-01-02   21   1496.09Premium
+                                                      865-
+                                                      921-   1691
+CUST00074Michelle   Williams   customer74@email.com   6204   Elm Dr   Phoenix     TX   23726 302024-07-29    6   1451.99Premium
+                                                      321-   6276
+                                                      570-   Oak
+CUST00075Amanda Martin         customer75@email.com   9687   Ave      JacksonvilleIL   12059 782023-05-14   29   4946.76Premium
+                                                      870-   3902
+                                                      651-   Oak
+CUST00076Matthew Davis         customer76@email.com   5925   Ave      San Jose    FL   86817 432023-06-20   18   4301.57Inactive
+                                                      397-   5679
+                                                      511-   Park
+CUST00077Richard    Gonzalez customer77@email.com     3118   Blvd     Austin      VA   71013 732023-09-01   40   3253.24Inactive
+                                                      964-
+                                                      408-   8139
+                                                      9989   Pine Rd
+CUST00078Daniel     Thomas     customer78@email.com                 Chicago       OH   66485 362024-06-25   17   4555.98Premium
+                                                      231-
+                                                      418-   8199 San
+CUST00079Emily      Jackson    customer79@email.com   1376   Main St Francisco    CA   37665 572024-04-14   29   4557.27Premium
+                                                      229-
+                                                      635-   5977 San
+CUST00080Chris      Davis      customer80@email.com   4204   Main St Francisco VA      25825 772023-03-01    4   3327.61Inactive
+                                                      273-   1304
+                                                      651-   Oak
+CUST00081Jennifer   Gonzalez customer81@email.com     6317   Ave     Fort Worth MI     73411 472022-11-16   42   2541.53Premium
+                                                      940-   576
+                                                      903-   Oak
+CUST00082Michelle   Martinez   customer82@email.com   8757   Ave     JacksonvilleNY    19344 722024-12-07    4    4894.6Active
+                                                      621-
+                                                      481-   6786
+CUST00083Ashley     Hernandezcustomer83@email.com     7062   Pine RdSan Diego PA       96383 262025-05-25    5   3249.91Premium
+                                                      730-   9713
+                                                      500-   Oak
+CUST00084William    Smith      customer84@email.com   4903   Ave    Los AngelesTX      74219 712023-12-24   41   4242.38Active
+                                                      909-   2592
+                                                      735-   Park San
+CUST00085Emily      Williams   customer85@email.com   4468   Blvd   Francisco WA       35677 442024-06-27    6   1797.05Active
+                                                      154-   9674
+                                                      387-   Oak
+CUST00086Matthew Johnson       customer86@email.com   1915   Ave    New York NC        86538 422025-06-25    5   3786.55Active
+                                                    122-
+                                                    912-   7491
+CUST00087Sarah       Wilson   customer87@email.com 6790    Elm Dr San Jose     AZ   38295 692025-01-29   13    753.15Premium
+                                                    399-   5826
+                                                    643-   Park San
+CUST00088John        Miller   customer88@email.com 6261    Blvd   Francisco    NC   12507 692023-07-11   29    4913.1Premium
+                                                    221-
+                                                    631-   7986
+CUST00089William     Gonzalez customer89@email.com 3035    Main St Dallas     NJ    61627 542024-01-19   26   2523.31Inactive
+                                                    176-   8350
+                                                    732-   Oak
+CUST00090John        Lopez    customer90@email.com 3103    Ave     Los AngelesIL    52430 572024-12-26   34   2389.18Active
+                                                    762-
+                                                    154-   993
+CUST00091Sarah       Moore    customer91@email.com 8675    Elm Dr Houston    MA     24572 242025-03-12   20   2854.12Inactive
+                                                    550-   6296
+                                                    824-   Oak
+CUST00092Ashley      Williams customer92@email.com 9193    Ave    Los AngelesFL     71808 672023-08-13   36   4431.18Premium
+                                                    847-
+                                                    754-   830     San
+CUST00093Matthew     Jackson customer93@email.com 8950     Main St Francisco   NC   52214 702025-03-20    9   1152.14Active
+                                                    522-
+                                                    706-   7994
+CUST00094Jennifer    Hernandezcustomer94@email.com 7540    Pine RdFort Worth NC     86070 542024-02-09   27   3056.91Premium
+                                                    648-
+                                                    248-   494
+CUST00095Jessica     Martinez customer95@email.com 8018    Pine RdHouston      VA   74880 212024-10-15   35   1778.74Premium
+                                                    609-
+                                                    900-   4972
+CUST00096John        Brown    customer96@email.com 7820    Main St Houston     PA   95595 352024-02-09    0    251.15Active
+                                                    925-   7534
+                                                    949-   Oak
+CUST00097Elizabeth   Gonzalez customer97@email.com 7346    Ave     Chicago     WA   89682 252023-06-18    8   1994.38Active
+                                                    627-   3589
+                                                    989-   Park
+CUST00098Richard     Thomas customer98@email.com 6133      Blvd    Austin      MI   49276 212023-11-19   44   3758.37Active
+                                                    700-
+                                                    712-   993
+CUST00099Chris       Garcia   customer99@email.com 5436    Elm Dr Phoenix      MI   25710 692024-10-09   34   1319.21Active
+                                                    858-
+                                                    612-   8664
+CUST00100William     Hernandezcustomer100@email.com6520    Pine RdSan Diego TX      68676 272024-01-28   32   4539.59Inactive
+                                                    681-
+                                                    145-   6628
+CUST00101David       Martin   customer101@email.com6649    Main St JacksonvilleOH   69730 522023-03-29   10   3000.02Inactive
+                                                    132-   5282
+                                                    475-   Oak
+CUST00102Jennifer    Williams customer102@email.com9159    Ave     Fort Worth MA    15293 282025-02-20   48   1650.89Premium
+                                                    600-   2260
+                                                    293-   Oak
+CUST00103Jennifer    Garcia   customer103@email.com6491    Ave     Chicago     IL   69106 672025-04-27    3   1537.29Premium
+                                                    231-
+                                                    872-   4325
+                                                    2515   Pine Rd
+CUST00104James       Garcia   customer104@email.com               San AntonioGA     61212 462024-12-27   49    2175.9Active
+                                                    945-
+                                                    875-   7464
+CUST00105John        Smith    customer105@email.com2828    Pine RdDallas     PA     90695 732023-07-01   36   3216.77Premium
+                                                    394-   6389
+                                                    258-   Park
+CUST00106David       Wilson   customer106@email.com7210    Blvd   Phoenix    AZ     34835 402023-11-22   36   3344.02Active
+                                                    260-   1053
+                                                    743-   Oak
+CUST00107Michelle    Jackson customer107@email.com1013     Ave    Chicago    CA     24719 342023-07-26   19   2182.03Premium
+                                                    881-   3673
+                                                    304-   Park
+CUST00108Matthew     Smith    customer108@email.com5835    Blvd   San AntonioVA     86937 272025-07-19   39    936.63Inactive
+                                                    337-
+                                                    302-   9853 San
+CUST00109James       Lopez    customer109@email.com7054    Main St Francisco   NY   23152 782025-03-18   14   3940.94Premium
+                                                    116-   8639
+                                                    433-   Oak
+CUST00110Ashley      Thomas customer110@email.com3723      Ave     San Jose    NC   23502 492022-12-14    0   2023.03Inactive
+                                                    901-
+                                                    147-   9639
+CUST00111Sarah       Lopez    customer111@email.com4902    Pine RdColumbus WA       40816 542023-03-27   11   2147.73Premium
+                                                    215-
+                                                    331-   3406
+CUST00112Chris       Taylor   customer112@email.com5654    Pine RdSan Jose     TX   76572 362025-02-15   31     45.07Premium
+                                                    467-
+                                                    632-   7282
+CUST00113William     Jackson customer113@email.com9966     Main St Columbus TX      13770 592025-01-06   33    376.12Premium
+                                                    193-
+                                                    615-   4826
+CUST00114Michael     Anderson customer114@email.com1962    Pine RdLos AngelesPA     56640 242023-12-18   44   3519.47Inactive
+                                                    181-   2874
+                                                    911-   Park San
+CUST00115Matthew     Garcia   customer115@email.com6082    Blvd   Francisco WA      31215 262023-07-13   12   4305.75Inactive
+                                                    140-
+                                                    959-   4564
+CUST00116Daniel      Gonzalez customer116@email.com3896    Elm Dr   San Diego TX     59278 662024-03-11   27   1887.34Premium
+                                                    426-   3044
+                                                    135-   Oak
+CUST00117Lisa        Moore    customer117@email.com7716    Ave      JacksonvilleCA   59347 332025-06-23   49   4262.15Premium
+                                                    415-   454
+                                                    120-   Park
+CUST00118Matthew     Lopez    customer118@email.com9269    Blvd     PhiladelphiaPA   17120 232024-12-20   41   3077.43Premium
+                                                    349-   5635
+                                                    287-   Oak
+CUST00119Matthew     Thomas customer119@email.com6080      Ave      Dallas     NC    96690 502024-12-03   24   2881.12Active
+                                                    258-   4906
+                                                    307-   Park
+CUST00120John        Brown    customer120@email.com1176    Blvd     Phoenix    PA    62853 552025-03-21   36    170.12Premium
+                                                    185-   3472
+                                                    981-   Park
+CUST00121Emily       Jones    customer121@email.com2529    Blvd     Columbus IL      54266 312023-08-31   42   3286.11Inactive
+                                                    515-   7198
+                                                    742-   Oak
+CUST00122Michael     Hernandezcustomer122@email.com8580    Ave      Phoenix    VA    55047 222024-04-22   21   4816.78Active
+                                                    710-
+                                                    196-   2199
+CUST00123Lisa        Smith    customer123@email.com3944    Main St PhiladelphiaOH    92830 372024-01-16    3   3165.09Inactive
+                                                    133-
+                                                    680-   7829
+CUST00124Matthew     Garcia   customer124@email.com3209    Main St Dallas    MI      72170 252023-12-30   14    2554.7Premium
+                                                    419-   1669
+                                                    391-   Oak
+CUST00125James       Williams customer125@email.com7464    Ave     San Diego NJ      25152 482023-12-07   29   1278.03Active
+                                                    984-   4290
+                                                    551-   Park
+CUST00126Ashley      Smith    customer126@email.com9562    Blvd    Austin    MI      70942 602024-11-16   25   2037.24Inactive
+                                                    629-
+                                                    495-   4696
+CUST00127Matthew     Lopez    customer127@email.com4060    Pine RdAustin     NY      58011 582025-06-29   13   1059.61Inactive
+                                                    618-   9109
+                                                    411-   Oak
+CUST00128Matthew     Brown    customer128@email.com4310    Ave    Fort Worth IL      44297 372023-01-17   28   2880.99Inactive
+                                                    452-
+                                                    722-   5136
+CUST00129Chris       Garcia   customer129@email.com8284    Pine RdPhoenix     VA     49464 482025-03-15    7   3537.17Premium
+                                                    917-   4275
+                                                    973-   Park
+                                                    2069   Blvd
+CUST00130Lisa        Smith    customer130@email.com               JacksonvilleFL     12799 482023-11-22    7   1414.59Inactive
+                                                    779-
+                                                    770-   6270
+CUST00131Elizabeth   Brown    customer131@email.com2814    Elm Dr Houston      NY    53554 202022-12-17   36   3509.66Premium
+                                                    963-   9808
+                                                    314-   Oak
+CUST00132Robert      Williams customer132@email.com9531    Ave    Austin       PA    81200 212024-03-17   38   4925.64Inactive
+                                                    599-
+                                                    442-   5909
+CUST00133Jennifer    Smith    customer133@email.com2681    Elm Dr San Jose     TX    58553 672024-12-20   43   4198.52Active
+                                                    846-
+                                                    113-   9191
+CUST00134Michael     Lopez    customer134@email.com9901    Main St Dallas      CA    44949 562023-10-30    3   3073.83Premium
+                                                    438-
+                                                    951-   7898
+CUST00135Matthew     Miller   customer135@email.com1030    Main St Los AngelesVA     48721 592023-07-05   32    290.89Active
+                                                    800-
+                                                    870-   8416
+CUST00136Robert      Smith    customer136@email.com8170    Pine RdFort Worth NY      15451 302022-12-17    1    787.91Premium
+                                                    514-
+                                                    591-   6955
+CUST00137Richard     Miller   customer137@email.com9233    Pine RdSan AntonioVA      94849 252024-08-10   20    448.44Active
+                                                    607-   260
+                                                    130-   Oak
+CUST00138Lisa        Brown    customer138@email.com9340    Ave    San AntonioTX      85244 392025-03-11    0    598.26Inactive
+                                                    599-   4528
+                                                    763-   Oak
+CUST00139Richard     Jones    customer139@email.com1419    Ave    San AntonioFL      24445 732022-10-27   12   1760.02Premium
+                                                    430-
+                                                    742-   5342
+CUST00140Michelle    Wilson   customer140@email.com6099    Elm Dr Dallas       MI    42688 682024-02-21   29   3645.92Premium
+                                                    475-
+                                                    377-   7222
+CUST00141Elizabeth   Smith    customer141@email.com3353    Main St San Diego GA      39728 472023-02-05   20   4679.07Premium
+                                                    769-
+                                                    167-   9054
+CUST00142Helen       Miller   customer142@email.com6855    Elm Dr Chicago      PA    57721 272025-06-26   49   4205.14Inactive
+                                                    181-
+                                                    942-   1545
+CUST00143Robert      Jackson customer143@email.com2441     Pine RdLos AngelesTX      30420 322023-10-09   36   1664.21Premium
+                                                    587-
+                                                    562-   8615
+CUST00144Amanda      Williams customer144@email.com1994    Elm Dr JacksonvilleCA     55849 362023-02-08   45   4389.21Inactive
+                                                   276-   4027
+                                                   439-   Park
+CUST00145Jessica Davis       customer145@email.com6050    Blvd   Columbus WA       20722 312024-06-07   50   2744.47Active
+                                                   328-   1639
+                                                   221-   Oak
+CUST00146Ashley    Brown     customer146@email.com7249    Ave    Columbus AZ       63029 202025-07-11    6   2228.34Active
+                                                   219-
+                                                   483-   835
+CUST00147Robert    Thomas customer147@email.com8530       Pine RdHouston      IL   84477 242025-03-08   10   3671.08Inactive
+                                                   411-
+                                                   245-   8710
+CUST00148Richard Lopez       customer148@email.com6391    Pine RdColumbus CA       63821 362023-12-30   23   2005.08Active
+                                                   407-
+                                                   450-   5773
+CUST00149Lisa      Thomas customer149@email.com7667       Pine RdSan Jose     CA   25854 622023-05-29   11   4982.07Inactive
+                                                   306-
+                                                   609-   8280
+CUST00150James     Brown     customer150@email.com1572    Elm Dr Austin       NC   55182 412023-11-19   26     907.3Active
+                                                   384-
+                                                   995-   5268
+CUST00151James     Jones     customer151@email.com6826    Elm Dr JacksonvilleGA    55449 632025-06-05   44   4202.64Premium
+                                                   581-   4254
+                                                   502-   Park
+CUST00152Emily     Brown     customer152@email.com4012    Blvd   Chicago     PA    99185 432023-09-10   48   1488.87Premium
+                                                   653-
+                                                   279-   5947
+CUST00153Emily     Williams customer153@email.com6806     Elm Dr Chicago      VA   61256 632025-05-23   40    557.84Active
+                                                   798-
+                                                   141-   1131
+CUST00154John      Gonzalez customer154@email.com3699     Elm Dr JacksonvilleMI    13511 502022-10-26   17   1446.91Active
+                                                   361-   441
+                                                   112-   Oak
+CUST00155Lisa      Hernandezcustomer155@email.com5825     Ave    Phoenix     MA    27798 402024-05-18   31    330.01Inactive
+                                                   301-
+                                                   246-   9834
+                                                   4602   Pine Rd
+CUST00156Richard Garcia      customer156@email.com               San AntonioCA     30068 402024-03-22   26    869.24Premium
+                                                   329-   927
+                                                   386-   Park
+CUST00157Elizabeth Williams customer157@email.com8219     Blvd   Houston    MA     55056 222023-10-25   23   4209.75Active
+                                                   619-
+                                                   986-   5227
+CUST00158Elizabeth Anderson customer158@email.com4108     Elm Dr PhiladelphiaTX    32350 802023-02-16   50   4760.07Active
+                                                   977-
+                                                   967-   8435
+CUST00159Michelle Garcia     customer159@email.com6808    Pine RdFort Worth TX     51399 232024-10-08   23    202.27Premium
+                                                   454-   688
+                                                   796-   Park
+CUST00160Ashley    Taylor    customer160@email.com4567    Blvd   San Jose NY       56748 502024-01-03   11    300.43Active
+                                                   923-   9049
+                                                   854-   Oak
+CUST00161Helen     Rodriguez customer161@email.com8865    Ave    PhiladelphiaNJ    94157 362025-03-06    5   4368.36Active
+                                                   630-   5585
+                                                   235-   Park
+CUST00162Michelle Garcia     customer162@email.com4917    Blvd   PhiladelphiaTX    55489 502024-09-22   46   2452.86Premium
+                                                   810-
+                                                   245-   5190 San
+CUST00163Amanda Lopez        customer163@email.com5739    Main St Francisco   WA   13154 702023-05-08    9   4449.69Active
+                                                   741-
+                                                   462-   2884
+CUST00164Daniel    Thomas customer164@email.com1758       Elm Dr Columbus MI       59397 482023-04-11    4    876.49Inactive
+                                                   135-   3295
+                                                   224-   Oak
+CUST00165Sarah     Anderson customer165@email.com2122     Ave    Chicago  VA       22444 542025-01-23   15   1868.93Inactive
+                                                   894-
+                                                   395-   2906
+CUST00166Ashley    Taylor    customer166@email.com8481    Elm Dr San Jose PA       72694 292023-01-19    0     189.4Active
+                                                   158-   733
+                                                   317-   Park
+CUST00167John      Davis     customer167@email.com6935    Blvd   New York IL       14695 592025-03-25    8    385.73Premium
+                                                   161-   7481
+                                                   468-   Park
+CUST00168David     Hernandezcustomer168@email.com8539     Blvd   Columbus MA       99679 722023-11-24   34   4629.76Inactive
+                                                   867-
+                                                   582-   5123
+CUST00169Helen     Thomas customer169@email.com6054       Elm Dr Los AngelesCA     46862 412023-05-12   15       764Active
+                                                   280-
+                                                   224-   7020
+CUST00170Sarah     Williams customer170@email.com5301     Elm Dr San AntonioIL     32257 802023-10-13   49    880.06Inactive
+                                                   488-
+                                                   641-   1262
+CUST00171Jessica Taylor      customer171@email.com2392    Elm Dr JacksonvilleMI    80868 572022-10-29    9   1898.18Active
+                                                   571-
+                                                   501-   6175
+CUST00172Chris     Anderson customer172@email.com5314     Main St San AntonioWA    27378 452025-04-25    5   1127.18Inactive
+                                                   887-
+                                                   708-   1362
+CUST00173Jessica Hernandezcustomer173@email.com8557       Main St San AntonioNC    74516 622024-05-05   22   2336.26Premium
+                                                     382-
+                                                     701-   8831
+CUST00174Matthew     Lopez     customer174@email.com8335    Main St PhiladelphiaMA    65079 522025-07-16    0    305.91Inactive
+                                                     208-
+                                                     332-   129
+CUST00175Amanda      Gonzalez customer175@email.com6152     Elm Dr New York MI        45739 382024-11-16   23    623.79Inactive
+                                                     490-   8283
+                                                     467-   Park
+CUST00176Jennifer    Rodriguez customer176@email.com2415    Blvd   San Diego MI       85893 632023-03-06   48   3648.23Premium
+                                                     920-
+                                                     151-   8846
+CUST00177Chris       Garcia    customer177@email.com1716    Pine RdNew York      FL   99672 772024-02-24   15   4730.21Active
+                                                     823-
+                                                     268-   2028
+CUST00178Elizabeth   Garcia    customer178@email.com3533    Elm Dr Dallas        IL   87174 572024-09-27   44    178.24Inactive
+                                                     310-   7831
+                                                     712-   Park
+CUST00179Matthew     Garcia    customer179@email.com1826    Blvd   Chicago       NY   91685 272023-09-24   49   1183.82Premium
+                                                     369-
+                                                     440-   6214
+CUST00180Robert      Miller    customer180@email.com6441    Elm Dr Columbus MA        94289 322023-09-27   14    2590.3Inactive
+                                                     232-
+                                                     792-   9942
+CUST00181Jennifer    Jackson customer181@email.com3841      Elm Dr Chicago       VA   57469 572023-05-19   41   3094.66Premium
+                                                     837-
+                                                     663-   5443
+                                                     8260   Pine Rd
+CUST00182Sarah       Garcia    customer182@email.com               San AntonioNJ      33663 492023-11-19   15    806.65Inactive
+                                                     961-
+                                                     554-   9764
+CUST00183William     Hernandezcustomer183@email.com6915     Pine RdAustin        TX   29213 582024-05-24   19   4667.75Premium
+                                                     551-   5411
+                                                     967-   Park
+CUST00184Jessica     Rodriguez customer184@email.com2017    Blvd   San Jose      NJ   29578 372023-11-14   15   2168.54Premium
+                                                     599-
+                                                     129-   1695
+CUST00185Jessica     Miller    customer185@email.com5513    Pine RdPhiladelphiaMI     44613 382023-02-26   26   1522.16Inactive
+                                                     856-
+                                                     710-   5731
+CUST00186Lisa        Martin    customer186@email.com4033    Elm Dr San Diego TX       98985 542023-07-26    2   1681.76Premium
+                                                     989-
+                                                     869-   5851
+CUST00187Matthew     Hernandezcustomer187@email.com2926     Pine RdColumbus IL        50573 442023-02-15   45      8.69Premium
+                                                     635-
+                                                     683-   2076
+CUST00188Sarah       Garcia    customer188@email.com2823    Main St Fort Worth   MA   12433 652022-12-29   10   4071.47Inactive
+                                                     768-   533
+                                                     872-   Park
+CUST00189Michelle    Smith     customer189@email.com7071    Blvd    Austin       NJ   57384 522024-03-27   29   4143.77Inactive
+                                                     793-   7617
+                                                     594-   Oak
+CUST00190Ashley      Martinez customer190@email.com2936     Ave     San Jose     GA   11835 202024-03-01   27    476.88Premium
+                                                     747-   760
+                                                     123-   Park
+CUST00191Michael     Moore     customer191@email.com4195    Blvd    San Diego    FL   45823 302024-12-02   36   3856.29Premium
+                                                     469-
+                                                     923-   2242
+CUST00192Lisa        Thomas customer192@email.com7927       Elm Dr San AntonioNY      86720 482023-12-06   18   4577.14Premium
+                                                     985-
+                                                     761-   9211
+CUST00193Jessica     Anderson customer193@email.com2607     Pine RdColumbus MA        87887 532023-01-26   23     1780Active
+                                                     338-   6609
+                                                     703-   Park
+CUST00194Robert      Williams customer194@email.com7203     Blvd   PhiladelphiaAZ     88192 402023-01-26   18   4212.99Inactive
+                                                     132-   4814
+                                                     700-   Park
+CUST00195John        Thomas customer195@email.com8819       Blvd   Houston     CA     94656 432024-07-28   14    540.78Active
+                                                     938-
+                                                     552-   5042
+CUST00196Sarah       Hernandezcustomer196@email.com4461     Main St Austin       MI   35942 722024-10-04    0     284.8Inactive
+                                                     210-
+                                                     837-   8735
+CUST00197Sarah       Smith     customer197@email.com5039    Elm Dr Phoenix       NC   38698 212022-11-27   32   3304.79Premium
+                                                     659-
+                                                     296-   6142
+CUST00198Sarah       Taylor    customer198@email.com2711    Pine RdFort Worth MI      96551 802023-11-26   42   4618.68Inactive
+                                                     895-
+                                                     426-   5871
+CUST00199Matthew     Martinez customer199@email.com2572     Pine RdChicago       WA   80855 562025-04-14   36   2900.75Inactive
+                                                     959-
+                                                     916-   148
+CUST00200Sarah       Williams customer200@email.com1465     Elm Dr PhiladelphiaNJ     66534 472023-12-23   12   3212.73Active
+                                                     116-   4183
+                                                     911-   Oak
+CUST00201Ashley      Wilson    customer201@email.com7747    Ave    New York OH        21490 382023-12-08   43   2719.16Premium
+                                                     290-
+                                                     277-   910
+CUST00202Daniel      Miller    customer202@email.com8191    Main St Dallas       OH   61811 602024-05-01   36   3849.84Active
+                                                 225-
+                                                 341-   6362
+CUST00203John      Smith    customer203@email.com5199   Main St New York TX      75055 302024-05-23   48   1703.04Active
+                                                 622-   9543
+                                                 446-   Oak
+CUST00204Jessica Thomas customer204@email.com4477       Ave     PhiladelphiaOH   96657 592024-08-02    6    198.02Active
+                                                 220-   1311
+                                                 330-   Park
+CUST00205Jessica Davis      customer205@email.com1307   Blvd    New York AZ      84447 392023-11-10   17   3797.89Inactive
+                                                 742-   8851
+                                                 677-   Park
+CUST00206Jessica Williams customer206@email.com7805     Blvd    San Jose MA      81661 322024-11-09   44   1148.34Inactive
+                                                 710-
+                                                 600-   5732
+CUST00207Matthew Davis      customer207@email.com3221   Pine RdPhiladelphiaMA    21050 522025-03-10    3   2968.24Inactive
+                                                 731-   9790
+                                                 330-   Oak    San
+CUST00208Emily     Gonzalez customer208@email.com7622   Ave    Francisco OH      69891 762024-10-28    1   1041.39Inactive
+                                                 148-
+                                                 949-   766
+CUST00209Jennifer Rodriguez customer209@email.com9283   Pine RdChicago      FL   59824 282024-01-05   42   3065.53Premium
+                                                 648-
+                                                 309-   410
+CUST00210Daniel    Garcia   customer210@email.com1963   Pine RdAustin      AZ    97303 652023-04-30    9   1882.84Premium
+                                                 130-   8767
+                                                 690-   Oak
+CUST00211Elizabeth Taylor   customer211@email.com9983   Ave    PhiladelphiaPA    16726 542023-01-28    4   2760.23Inactive
+                                                 703-
+                                                 812-   126
+CUST00212Jennifer Davis     customer212@email.com8131   Pine RdColumbus IL       35871 542023-02-19   18   3366.69Active
+                                                 369-
+                                                 426-   4183
+CUST00213David     Lopez    customer213@email.com7782   Main St New York    NJ   87829 362023-02-27   32   1293.97Inactive
+                                                 650-   7246
+                                                 883-   Oak
+CUST00214Emily     Moore    customer214@email.com8161   Ave     Chicago     WA   65190 632025-04-15   49   4730.84Inactive
+                                                 420-
+                                                 200-   9452
+CUST00215Robert    Davis    customer215@email.com5554   Elm Dr San Diego IL      46985 182025-04-28   25    981.46Active
+                                                 576-
+                                                 842-   6250
+CUST00216Sarah     Taylor   customer216@email.com6186   Main St San Jose CA      19437 632023-09-18    4   2226.88Inactive
+                                                 360-   6425
+                                                 920-   Park
+CUST00217Amanda Smith       customer217@email.com1770   Blvd    San AntonioMA    62089 182024-05-11    7    391.72Premium
+                                                 613-
+                                                 550-   9069
+CUST00218Ashley    Jackson customer218@email.com8134    Elm Dr San Diego TX      36173 392023-02-24   46   3108.74Inactive
+                                                 864-
+                                                 848-   9875
+CUST00219John      Brown    customer219@email.com2294   Main St Chicago     NJ   75075 522024-10-18   39   3845.68Premium
+                                                 499-
+                                                 824-   6744
+CUST00220Helen     Jones    customer220@email.com9315   Main St San Jose    PA   52105 602023-04-16   48   1333.29Premium
+                                                 784-   6671
+                                                 571-   Oak
+CUST00221James     Hernandezcustomer221@email.com7340   Ave     Dallas      NJ   21294 262024-10-10   43    363.48Active
+                                                 509-   936
+                                                 260-   Oak     San
+CUST00222Michael Martin     customer222@email.com5846   Ave     Francisco   IL   76910 722022-11-03   35   4503.86Active
+                                                 519-
+                                                 649-   4345
+CUST00223Jennifer Thomas customer223@email.com1783      Elm Dr San AntonioNY     31774 462025-01-04    4    4726.1Active
+                                                 870-
+                                                 228-   8202
+CUST00224John      Martinez customer224@email.com2561   Pine RdSan Diego IL      71208 632024-11-27   11   3265.27Active
+                                                 772-
+                                                 803-   9226
+CUST00225James     Martinez customer225@email.com3148   Pine RdAustin      GA    88340 532023-11-21    0   4437.14Active
+                                                 286-   2755
+                                                 727-   Park
+CUST00226Emily     Brown    customer226@email.com8255   Blvd   PhiladelphiaGA    61750 442023-03-28   45    900.61Active
+                                                 719-
+                                                 503-   5304
+CUST00227Sarah     Johnson customer227@email.com2911    Elm Dr Los AngelesNY     79352 752023-03-16    2   3745.06Inactive
+                                                 694-   8362
+                                                 782-   Park
+CUST00228Helen     Johnson customer228@email.com3976    Blvd   Dallas     NY     87919 202022-12-01   37    403.24Premium
+                                                 619-
+                                                 534-   657
+CUST00229John      Moore    customer229@email.com1648   Elm Dr Fort Worth NY     57814 692025-03-08   16   4769.98Active
+                                                 304-   4818
+                                                 226-   Park
+CUST00230Robert    Thomas customer230@email.com1776     Blvd   New York NY       24623 742024-10-27   35   3035.64Active
+                                                 393-
+                                                 420-   2901
+CUST00231James     Davis    customer231@email.com8649   Main St Phoenix     CA   66199 282024-08-01   33    106.84Active
+                                                 751-
+                                                 521-   4785
+CUST00232Elizabeth Lopez    customer232@email.com9203   Main St Dallas       OH   55096 182023-04-30   10   3553.83Inactive
+                                                 168-
+                                                 321-   4359
+CUST00233Chris     Williams customer233@email.com4265   Main St PhiladelphiaMI    16762 392024-06-26   10    3897.9Premium
+                                                 446-   5545
+                                                 463-   Park
+CUST00234Emily     Anderson customer234@email.com2350   Blvd    San Diego IL      23777 382023-11-30   33   4920.34Inactive
+                                                 371-   9851
+                                                 700-   Park
+CUST00235David     Thomas customer235@email.com6508     Blvd     Dallas      NC   39744 442023-09-02   21   2384.52Active
+                                                 841-
+                                                 568-   2711
+CUST00236John      Martinez customer236@email.com9369   Elm Dr PhiladelphiaWA     95467 212023-12-03   31   3371.87Premium
+                                                 102-   6441
+                                                 371-   Oak
+CUST00237Emily     Hernandezcustomer237@email.com8610   Ave    Columbus NY        54423 612025-02-26    1   2654.12Inactive
+                                                 258-
+                                                 586-   5734
+CUST00238Michelle Jones     customer238@email.com9093   Pine RdChicago       IL   68686 322024-11-02   17   3612.13Inactive
+                                                 100-   8186
+                                                 126-   Oak    San
+CUST00239Sarah     Brown    customer239@email.com3035   Ave    Francisco     NY   73721 532023-08-01   46   2536.04Premium
+                                                 102-
+                                                 419-   7106
+CUST00240Michelle Thomas customer240@email.com5454      Pine RdColumbus OH        87939 582025-01-13   10   4085.84Inactive
+                                                 134-
+                                                 666-   3528 San
+CUST00241Elizabeth Garcia   customer241@email.com6549   Pine RdFrancisco     OH   50409 622023-11-04   47   3767.36Active
+                                                 383-
+                                                 459-   4215
+CUST00242David     Davis    customer242@email.com3425   Elm Dr   San AntonioNJ    49141 752025-05-01   40   3452.79Premium
+                                                 717-   9629
+                                                 488-   Oak
+CUST00243Lisa      Martin   customer243@email.com7315   Ave      Chicago     NJ   73430 382023-10-15   39   4334.39Premium
+                                                 127-   4025
+                                                 924-   Park
+CUST00244John      Jones    customer244@email.com9250   Blvd     Chicago     NJ   38415 472024-07-16    2   1064.86Inactive
+                                                 662-   6483
+                                                 255-   Park
+CUST00245William Gonzalez customer245@email.com7786     Blvd     Chicago     PA   44916 672023-04-21   50   1840.69Premium
+                                                 649-
+                                                 559-   3699
+CUST00246Helen     Jackson customer246@email.com2593    Main St New York NJ       76286 452024-10-15   47      8.48Inactive
+                                                 539-   1776
+                                                 501-   Oak
+CUST00247David     Anderson customer247@email.com8988   Ave     New York CA       67786 302023-11-17   47   3960.73Premium
+                                                 470-   6557
+                                                 610-   Park
+CUST00248Matthew Smith      customer248@email.com1197   Blvd    PhiladelphiaVA    36227 402023-08-21    4   2970.37Active
+                                                 239-
+                                                 706-   6800     San
+CUST00249Helen     Martinez customer249@email.com8248   Elm Dr   Francisco   NC   36636 522024-05-09   38   3924.71Inactive
+                                                 178-   6341
+                                                 240-   Oak
+CUST00250Chris     Davis    customer250@email.com3006   Ave      Fort Worth NC    64294 582023-03-28   45    411.83Active
+                                                 711-   3657
+                                                 656-   Park
+CUST00251Daniel    Smith    customer251@email.com1575   Blvd     San AntonioPA    99632 282025-03-12   29   1707.45Active
+                                                 493-   5092
+                                                 183-   Oak
+CUST00252Robert    Smith    customer252@email.com7215   Ave      San Jose    PA   79037 692023-11-06   43   4433.11Inactive
+                                                 357-
+                                                 858-   3705
+CUST00253Daniel    Thomas customer253@email.com6095     Main St Houston   PA      24489 682025-02-16   28   2888.15Premium
+                                                 665-   1331
+                                                 367-   Park
+CUST00254Ashley    Martin   customer254@email.com1982   Blvd    San Diego CA      16963 532022-11-01   29   3364.42Active
+                                                 635-
+                                                 649-   8063
+CUST00255John      Smith    customer255@email.com6374   Elm Dr Columbus VA        88107 632023-12-28    2   4807.17Inactive
+                                                 982-
+                                                 322-   6644
+CUST00256Michelle Williams customer256@email.com4183    Main St Columbus PA       86693 762023-07-11   23     38.22Active
+                                                 701-   3369
+                                                 538-   Oak
+CUST00257Jessica Martinez customer257@email.com6864     Ave     Los AngelesGA     38289 482024-03-23   17   3918.82Active
+                                                 413-
+                                                 473-   9284
+CUST00258Lisa      Anderson customer258@email.com1915   Pine RdJacksonvilleNY     33688 492024-09-01    5   2681.09Premium
+                                                 446-
+                                                 885-   8888
+CUST00259Jennifer Lopez     customer259@email.com6461   Pine RdJacksonvilleNC     63923 592024-12-24   11     82.67Inactive
+                                                 122-   8975
+                                                 321-   Park
+CUST00260Lisa      Jones    customer260@email.com6597   Blvd   Austin      MI     14305 232025-05-31   26   4535.06Premium
+                                                  978-
+                                                  958-   6019 San
+CUST00261Emily     Williams customer261@email.com5727    Main St Francisco OH     23728 592024-04-21   11   2590.86Inactive
+                                                  815-   1626
+                                                  899-   Oak
+CUST00262Chris     Davis     customer262@email.com8439   Ave     San Diego CA     98113 192025-04-13   28   3490.22Active
+                                                  652-
+                                                  835-   585
+CUST00263Matthew Martin      customer263@email.com6897   Main St PhiladelphiaCA   42941 662024-08-17   50    2661.6Inactive
+                                                  538-   5309
+                                                  980-   Park
+CUST00264Emily     Gonzalez customer264@email.com8632    Blvd    Columbus NJ      25865 642022-12-14   11   2301.39Inactive
+                                                  322-   2091
+                                                  887-   Oak
+CUST00265Helen     Garcia    customer265@email.com4488   Ave     PhiladelphiaCA   99214 312023-12-05   35   4677.01Inactive
+                                                  882-
+                                                  310-   6320
+CUST00266Michael Garcia      customer266@email.com7671   Main St Los AngelesNJ    51779 222022-12-29   31   4235.91Premium
+                                                  590-
+                                                  843-   3886
+CUST00267Michelle Hernandezcustomer267@email.com1166     Main St Fort Worth AZ    43971 302023-07-24   33   2204.66Inactive
+                                                  529-
+                                                  731-   5080
+CUST00268Ashley    Brown     customer268@email.com5536   Main St Fort Worth CA    58379 482023-12-23   33   3988.41Premium
+                                                  180-   488
+                                                  115-   Park
+CUST00269Daniel    Miller    customer269@email.com8157   Blvd    San AntonioAZ    73584 642022-12-09   37   2442.65Inactive
+                                                  652-   5423
+                                                  382-   Park
+CUST00270Lisa      Martinez customer270@email.com3607    Blvd    Dallas     WA    52659 742023-03-31   10   2931.76Active
+                                                  580-   8956
+                                                  433-   Oak
+CUST00271Emily     Rodriguez customer271@email.com5147   Ave     Phoenix    NJ    32476 772025-06-20   10    460.74Inactive
+                                                  383-
+                                                  510-   6664
+CUST00272Chris     Williams customer272@email.com2175    Elm Dr PhiladelphiaCA    43525 652023-11-12   42    577.66Premium
+                                                  514-
+                                                  268-   4226
+CUST00273William Moore       customer273@email.com2824   Pine RdHouston      MA   43338 332024-09-21    1   2587.17Active
+                                                  521-
+                                                  908-   8064
+CUST00274Ashley    Moore     customer274@email.com8380   Main St JacksonvillePA   25858 542022-12-21   40   3413.51Premium
+                                                  411-   8547
+                                                  860-   Park
+CUST00275David     Brown     customer275@email.com4084   Blvd    Dallas      GA   45856 562023-12-29   40   3320.51Inactive
+                                                  301-
+                                                  172-   8386
+CUST00276Lisa      Davis     customer276@email.com6192   Main St Fort Worth GA    95203 332023-10-15   39   2085.27Inactive
+                                                  112-   1826
+                                                  168-   Park
+CUST00277Chris     Anderson customer277@email.com2782    Blvd    Dallas     VA    47888 702023-04-28   27   4081.06Active
+                                                  601-
+                                                  413-   2497
+CUST00278Ashley    Johnson customer278@email.com9997     Elm Dr Phoenix      NY   19271 202025-04-26   41    336.12Active
+                                                  650-   9769
+                                                  431-   Park
+CUST00279John      Wilson    customer279@email.com8512   Blvd   New York     GA   97014 722024-01-15   48   1323.45Active
+                                                  976-
+                                                  761-   7823
+CUST00280Elizabeth Rodriguez customer280@email.com4302   Elm Dr   Columbus NJ     86784 492024-09-24   34    4042.4Premium
+                                                  539-   2000
+                                                  289-   Park
+CUST00281Robert    Taylor    customer281@email.com4751   Blvd     New York   MA   91195 662023-09-12   10    361.33Inactive
+                                                  873-   5595
+                                                  650-   Oak
+CUST00282Lisa      Hernandezcustomer282@email.com3534    Ave      Chicago    MI   80681 762023-07-26   14   3944.42Active
+                                                  599-   281
+                                                  438-   Park
+CUST00283Michael Johnson customer283@email.com4169       Blvd     San Diego TX    98472 512024-09-22   30    1695.2Premium
+                                                  972-
+                                                  528-   6898
+CUST00284Sarah     Taylor    customer284@email.com2628   Main St JacksonvilleOH   58541 722024-07-29   32   4855.25Active
+                                                  448-   6992
+                                                  555-   Oak
+CUST00285Amanda Brown        customer285@email.com4913   Ave     PhiladelphiaAZ   15334 452023-11-01   28     33.95Premium
+                                                  496-
+                                                  939-   4820 San
+CUST00286Chris     Miller    customer286@email.com8651   Pine RdFrancisco    IL   24225 572022-12-23   17   3704.12Premium
+                                                  927-
+                                                  250-   4170
+CUST00287Richard Brown       customer287@email.com6696   Pine RdNew York     NC   93056 472025-03-05   30   1645.88Inactive
+                                                  788-   7130
+                                                  869-   Oak
+CUST00288John      Johnson customer288@email.com7903     Ave    Houston      OH   78105 492024-03-07    8   4477.74Premium
+                                                  290-
+                                                  363-   3229
+CUST00289John      Wilson    customer289@email.com9137   Main St San Jose    NC   69972 522023-06-17   36    246.82Active
+                                                     629-   2696
+                                                     412-   Oak    San
+CUST00290Lisa       Jackson     customer290@email.com3932   Ave    Francisco   CA   94982 402023-09-23   41   1796.12Inactive
+                                                     682-
+                                                     216-   7711
+CUST00291Amanda Garcia          customer291@email.com6745   Main St Columbus NC     67253 662025-07-15   29   1250.11Inactive
+                                                     634-
+                                                     890-   7649
+CUST00292David      Rodriguez   customer292@email.com3126   Pine RdSan Diego CA     68396 182024-04-28   20   1499.49Premium
+                                                     531-   2166
+                                                     747-   Oak
+CUST00293Daniel     Jones       customer293@email.com5081   Ave    San Jose OH      60208 482023-05-14   35    688.93Premium
+                                                     637-
+                                                     845-   1399
+CUST00294Ashley     Williams    customer294@email.com1651   Main St San Jose   TX   21598 542023-07-06    3   1487.48Premium
+                                                     368-   2617
+                                                     234-   Park
+CUST00295Emily      Jackson     customer295@email.com7340   Blvd    San Jose   TX   21673 772024-01-04    2   2907.55Active
+                                                     557-
+                                                     708-   4270
+CUST00296Michelle   Wilson      customer296@email.com1644   Main St San AntonioNC   27913 252023-11-13   14   1891.17Premium
+                                                     516-   9360
+                                                     822-   Oak
+CUST00297Michael    Jackson     customer297@email.com8925   Ave     San Jose FL     65645 382023-02-19    0    3795.2Inactive
+                                                     551-
+                                                     948-   4460
+CUST00298Jennifer   Anderson    customer298@email.com2861   Main St Fort Worth NJ   91144 212023-04-28   33   1163.51Inactive
+                                                     543-
+                                                     730-   8093
+CUST00299Michelle   Martinez    customer299@email.com4804   Main St Austin     OH   67869 572025-05-27   28   1429.53Active
+                                                     645-   5074
+                                                     825-   Park
+CUST00300Ashley     Martinez    customer300@email.com9363   Blvd    San AntonioNJ   97189 772023-06-16   49    388.69Premium
+                                                     603-
+                                                     427-   3843
+CUST00301Jessica    Thomas      customer301@email.com9709   Pine RdJacksonvilleGA   92143 292023-01-03   41   2579.31Inactive
+                                                     356-
+                                                     751-   6240
+CUST00302Ashley     Martin      customer302@email.com1829   Pine RdAustin      NY   25539 582024-10-10   33   4302.78Premium
+                                                     713-   1973
+                                                     551-   Park
+CUST00303Richard    Jones       customer303@email.com3687   Blvd   Austin      NJ   10447 332024-09-02   35   2293.36Premium
+                                                     703-   1144
+                                                     571-   Oak
+CUST00304Helen      Smith       customer304@email.com4405   Ave    San Diego   AZ   30329 332024-07-30    9   1833.19Active
+                                                     501-   2431
+                                                     938-   Oak
+CUST00305Elizabeth Davis        customer305@email.com5884   Ave    New York    NY   44138 202024-11-26   19   2928.86Inactive
+                                                     432-   6763
+                                                     630-   Oak
+CUST00306Jessica    Wilson      customer306@email.com7719   Ave    Columbus    CA   91891 362024-04-22   48   4826.02Premium
+                                                     289-   2640
+                                                     130-   Park
+CUST00307William    Rodriguez   customer307@email.com5976   Blvd   Houston     NJ   12765 502023-07-13   19   4877.12Premium
+                                                     750-
+                                                     120-   7411
+CUST00308David      Anderson    customer308@email.com7640   Main St San Jose   WA   11028 192024-11-20    7   1989.96Active
+                                                     760-   6456
+                                                     937-   Oak
+CUST00309James      Brown       customer309@email.com1254   Ave     New York   NC   80995 232024-03-18   27   3326.35Inactive
+                                                     428-
+                                                     380-   9552
+CUST00310John       Gonzalez    customer310@email.com8057   Elm Dr Phoenix     MA   76460 282023-04-22   21    3611.3Active
+                                                     351-   1705
+                                                     827-   Park
+CUST00311Daniel     Garcia      customer311@email.com6034   Blvd   PhiladelphiaOH   70698 802023-06-25   49   4386.41Premium
+                                                     723-   4688
+                                                     854-   Park
+CUST00312Richard    Rodriguez   customer312@email.com7244   Blvd   PhiladelphiaGA   39955 702024-05-23   21   3596.21Inactive
+                                                     968-
+                                                     264-   9105
+CUST00313John       Thomas      customer313@email.com3872   Pine RdNew York    GA   83980 732024-08-07   13   2271.89Premium
+                                                     355-
+                                                     988-   560
+CUST00314Elizabeth Smith        customer314@email.com2511   Pine RdPhoenix     AZ   59402 602024-07-25   30    135.76Inactive
+                                                     746-
+                                                     277-   148
+CUST00315Michael    Thomas      customer315@email.com5671   Pine RdPhiladelphiaPA   97360 192024-07-10   47   3364.37Active
+                                                     752-   3223
+                                                     739-   Park San
+CUST00316Elizabeth Smith        customer316@email.com6581   Blvd   Francisco TX     45665 592024-12-29    2   1878.03Inactive
+                                                     561-
+                                                     416-   4343 San
+CUST00317Lisa       Brown       customer317@email.com2332   Elm Dr Francisco   TX   91681 742023-05-17   30   2798.63Premium
+                                                     331-
+                                                     439-   5699
+CUST00318Robert     Garcia      customer318@email.com6326   Main St New York   FL   18710 642023-04-01   29   2746.49Active
+                                                    502-   9235
+                                                    613-   Park
+CUST00319Amanda      Garcia    customer319@email.com6020   Blvd     San Jose    MA   77161 522023-12-29   32   3892.82Premium
+                                                    745-
+                                                    653-   6207
+CUST00320Robert      Anderson customer320@email.com1275    Main St Chicago      IL   60937 422023-07-20   43   4011.01Premium
+                                                    147-
+                                                    306-   2476
+CUST00321Daniel      Brown     customer321@email.com7769   Pine RdNew York      OH   75189 622024-01-09   16   2791.94Active
+                                                    530-
+                                                    980-   7707
+CUST00322Ashley      Davis     customer322@email.com5881   Pine RdFort Worth NC      53892 722024-05-18   10   2541.67Active
+                                                    187-   1239
+                                                    886-   Park
+CUST00323Ashley      Wilson    customer323@email.com9039   Blvd   JacksonvilleWA     36086 752024-04-15   26   2462.33Active
+                                                    957-
+                                                    493-   6106
+CUST00324Michael     Garcia    customer324@email.com3986   Main St New York     MI   81781 462023-03-12   40   1431.96Inactive
+                                                    769-
+                                                    175-   3495
+CUST00325Daniel      Martinez customer325@email.com8263    Elm Dr   JacksonvilleNJ   67101 262025-05-08   36   3112.96Premium
+                                                    787-   576
+                                                    766-   Park
+CUST00326Robert      Hernandezcustomer326@email.com5662    Blvd     Chicago     OH   68148 252024-05-13   34    561.82Inactive
+                                                    617-   2803
+                                                    114-   Oak      San
+CUST00327Amanda      Lopez     customer327@email.com9327   Ave      Francisco   AZ   70895 752024-10-15   43   3790.07Active
+                                                    700-   7213
+                                                    532-   Park
+CUST00328Jessica     Martinez customer328@email.com5303    Blvd     Columbus VA      90845 402024-10-30   39    391.31Active
+                                                    444-
+                                                    696-   4484
+CUST00329Matthew     Hernandezcustomer329@email.com9858    Main St JacksonvilleVA    36980 582024-07-05   30   3041.11Active
+                                                    649-
+                                                    760-   3107 San
+CUST00330James       Williams customer330@email.com2263    Elm Dr Francisco     MI   61784 802025-04-09   39   2582.45Inactive
+                                                    442-
+                                                    576-   4704 San
+CUST00331Matthew     Smith     customer331@email.com9934   Pine RdFrancisco     WA   94273 402025-06-10   43   3899.41Active
+                                                    465-
+                                                    160-   6993
+CUST00332David       Davis     customer332@email.com7802   Main St Columbus MA       91543 672025-06-20   36   4515.53Premium
+                                                    785-
+                                                    174-   3635
+CUST00333Michelle    Garcia    customer333@email.com9672   Main St San Diego CA      40862 672025-06-30   31    860.59Inactive
+                                                    863-   5073
+                                                    211-   Park
+CUST00334Michelle    Moore     customer334@email.com8748   Blvd    Columbus IL       16172 532025-01-30    1   2483.73Active
+                                                    333-
+                                                    596-   9218
+CUST00335Helen       Davis     customer335@email.com4916   Pine RdChicago       GA   70023 682024-10-23   29     25.46Premium
+                                                    832-
+                                                    324-   953
+CUST00336Helen       Johnson customer336@email.com4743     Elm Dr JacksonvilleCA     71681 682023-07-30   47    1560.3Inactive
+                                                    134-   1895
+                                                    735-   Park
+CUST00337Elizabeth   Moore     customer337@email.com3370   Blvd   San AntonioNY      24723 432024-01-23   36   1737.67Premium
+                                                    354-
+                                                    790-   2283
+CUST00338David       Davis     customer338@email.com2050   Main St PhiladelphiaGA    59227 372022-12-24   18     2128Inactive
+                                                    597-
+                                                    745-   1021
+CUST00339David       Jackson customer339@email.com3155     Elm Dr San Jose TX        63905 392023-07-28   28   2003.44Inactive
+                                                    833-   2891
+                                                    723-   Park
+CUST00340James       Davis     customer340@email.com1522   Blvd   Los AngelesAZ      76287 282023-05-31   17   4585.68Active
+                                                    672-
+                                                    887-   4098
+CUST00341Emily       Hernandezcustomer341@email.com2534    Pine RdLos AngelesAZ      21177 212025-04-01   17    723.95Active
+                                                    603-
+                                                    258-   5183
+CUST00342Michael     Rodriguez customer342@email.com9321   Main St Chicago  MI       25327 422023-05-23   18     63.17Inactive
+                                                    479-   6165
+                                                    768-   Park
+CUST00343Lisa        Smith     customer343@email.com5288   Blvd    Columbus NY       43921 602024-02-17   11    556.64Active
+                                                    348-
+                                                    797-   5427
+CUST00344Michael     Taylor    customer344@email.com1142   Pine RdJacksonvillePA     92065 262023-05-29   47    820.54Active
+                                                    380-   2117
+                                                    594-   Oak
+CUST00345Helen       Moore     customer345@email.com9783   Ave    Los AngelesAZ      97738 742025-05-08   43   1037.97Premium
+                                                    358-
+                                                    164-   1106
+CUST00346Elizabeth   Williams customer346@email.com6874    Pine RdJacksonvilleGA     64116 442024-02-29   38   4994.31Premium
+                                                    785-
+                                                    780-   4395
+CUST00347Jessica     Jackson customer347@email.com7256     Pine RdSan AntonioMI      45703 542025-03-16   46    3648.2Inactive
+                                                    233-
+                                                    538-   4916
+CUST00348Emily       Williams customer348@email.com4473    Pine RdFort Worth CA     98635 512024-07-14   48    867.44Premium
+                                                    215-
+                                                    670-   6241
+CUST00349Amanda      Williams customer349@email.com1894    Main St San AntonioIL    86105 322024-04-26   44   1542.67Active
+                                                    123-
+                                                    941-   5919
+CUST00350Sarah       Martinez customer350@email.com4967    Elm Dr New York FL       38611 572023-12-26    1    280.09Inactive
+                                                    903-   4622
+                                                    619-   Park
+CUST00351Daniel      Miller    customer351@email.com5891   Blvd   PhiladelphiaNY    91277 512023-07-16    3   2093.04Inactive
+                                                    780-   6165
+                                                    851-   Park
+CUST00352James       Taylor    customer352@email.com7630   Blvd   Los AngelesFL     83435 482022-10-29   47    474.46Active
+                                                    355-
+                                                    802-   330
+CUST00353Jennifer    Lopez     customer353@email.com9673   Pine RdSan Diego VA      52284 622023-09-12   34   1255.57Inactive
+                                                    174-
+                                                    934-   8543
+CUST00354David       Johnson customer354@email.com6207     Main St Columbus GA      21022 672023-03-28   13   2162.84Inactive
+                                                    209-
+                                                    673-   7404
+CUST00355Richard     Miller    customer355@email.com7175   Main St PhiladelphiaNJ   93877 422023-12-10   17   1149.52Active
+                                                    575-   7535
+                                                    369-   Park
+CUST00356Elizabeth   Anderson customer356@email.com8763    Blvd    Phoenix     IL   70628 392023-12-09   16   3595.05Inactive
+                                                    202-   2612
+                                                    987-   Oak
+CUST00357David       Gonzalez customer357@email.com2325    Ave     Austin      FL   94118 472024-03-09   47    864.18Premium
+                                                    648-
+                                                    733-   4920
+CUST00358Jennifer    Brown     customer358@email.com6638   Pine RdNew York    TX    54000 572023-10-11   29       843Premium
+                                                    304-   4498
+                                                    234-   Park
+CUST00359John        Taylor    customer359@email.com8864   Blvd   New York    NC    65504 462023-09-03   50     3020Inactive
+                                                    910-
+                                                    965-   6128
+CUST00360William     Taylor    customer360@email.com1337   Main St Columbus GA      95475 282022-11-10   11   1882.74Inactive
+                                                    165-   2014
+                                                    759-   Park San
+CUST00361John        Thomas customer361@email.com6885      Blvd    Francisco VA     11746 622024-08-03   22   3454.89Active
+                                                    458-
+                                                    430-   6135
+CUST00362Helen       Hernandezcustomer362@email.com1928    Elm Dr New York    NY    48827 322025-03-02   27    803.69Inactive
+                                                    670-
+                                                    869-   2626 San
+CUST00363Jessica     Brown     customer363@email.com8856   Elm Dr Francisco   IL    38917 622024-12-24   48   1469.21Premium
+                                                    429-
+                                                    261-   646
+CUST00364Emily       Davis     customer364@email.com9299   Main St Phoenix    MI    10943 392023-07-07   10    4913.8Inactive
+                                                    400-
+                                                    273-   8382
+CUST00365David       Wilson    customer365@email.com7320   Main St New York   OH    26253 702023-10-17   11   2667.05Inactive
+                                                    299-   3468
+                                                    806-   Park
+CUST00366Jennifer    Brown     customer366@email.com5737   Blvd    Dallas     FL    19755 452024-02-23   23   4627.71Active
+                                                    666-
+                                                    855-   8564
+CUST00367Helen       Wilson    customer367@email.com6687   Main St New York   CA    97700 532024-09-27   48   3686.09Premium
+                                                    533-   8988
+                                                    576-   Park
+CUST00368David       Garcia    customer368@email.com3941   Blvd    Austin     FL    73650 722023-01-09    4   2671.52Inactive
+                                                    944-
+                                                    862-   9151
+CUST00369Matthew     Rodriguez customer369@email.com1488   Elm Dr PhiladelphiaGA    65301 362023-02-05   12    3428.5Active
+                                                    452-
+                                                    498-   2920
+CUST00370John        Hernandezcustomer370@email.com9648    Elm Dr Phoenix     FL    51970 602023-11-16   32    698.48Active
+                                                    832-
+                                                    643-   757
+CUST00371Jennifer    Gonzalez customer371@email.com4257    Pine RdLos AngelesMI     36523 392025-01-04   17   4219.03Premium
+                                                    341-
+                                                    645-   2310
+CUST00372Jessica     Lopez     customer372@email.com3032   Main St Dallas     NY    94422 532023-01-09   15    1311.4Premium
+                                                    988-
+                                                    424-   3621
+CUST00373Ashley      Gonzalez customer373@email.com1325    Elm Dr Phoenix     NC    21755 242024-06-13   11   3020.43Inactive
+                                                    393-
+                                                    888-   6468
+CUST00374Ashley      Johnson customer374@email.com5183     Pine RdFort Worth VA     84363 462023-05-30   21   4508.06Inactive
+                                                    429-   7141
+                                                    114-   Oak
+CUST00375Michael     Jackson customer375@email.com7062     Ave    Columbus NC       53810 472023-10-25   12   2712.35Premium
+                                                    159-   6300
+                                                    858-   Oak
+CUST00376Matthew     Davis     customer376@email.com4406   Ave    Houston    OH     64859 792024-10-06   17     19.38Active
+                                                 257-   2593
+                                                 629-   Oak
+CUST00377Jessica Moore      customer377@email.com5485   Ave    Los AngelesMA    27719 662022-11-04   34   1671.62Active
+                                                 498-   2777
+                                                 998-   Oak
+CUST00378Jessica Williams customer378@email.com6333     Ave    Chicago     MA   79358 332024-03-31   43    997.93Inactive
+                                                 895-
+                                                 961-   4679
+CUST00379Michelle Martin    customer379@email.com6282   Pine RdSan Diego CA     24789 342023-11-27   43   1123.63Active
+                                                 772-   2987
+                                                 140-   Park San
+CUST00380Lisa      Taylor   customer380@email.com6628   Blvd   Francisco NY     18167 292023-07-19   21   1252.83Inactive
+                                                 355-
+                                                 181-   3216
+CUST00381Jennifer Jones     customer381@email.com6200   Elm Dr New York    AZ   49669 392023-07-10   12   1078.66Inactive
+                                                 183-
+                                                 418-   2479
+CUST00382Michelle Anderson customer382@email.com4258    Pine RdLos AngelesWA    83884 462022-11-21   48   4492.22Inactive
+                                                 878-   5565
+                                                 930-   Oak
+CUST00383Amanda Jackson customer383@email.com8009       Ave    Dallas     NC    90818 722025-06-25   19    1350.4Active
+                                                 237-   9682
+                                                 464-   Park
+CUST00384Amanda Gonzalez customer384@email.com6388      Blvd   San Jose GA      38536 342022-12-19   16   2843.09Premium
+                                                 617-
+                                                 501-   9972
+CUST00385Chris     Thomas customer385@email.com5720     Main St New York   TX   74141 732023-01-17   22    850.65Active
+                                                 543-
+                                                 582-   5208
+CUST00386Robert    Miller   customer386@email.com9740   Elm Dr Dallas      PA   26157 212025-06-20   20   1835.66Premium
+                                                 374-   842
+                                                 809-   Oak
+CUST00387David     Taylor   customer387@email.com1445   Ave    San Jose    FL   34659 482024-11-18   11    190.34Active
+                                                 297-
+                                                 996-   4003
+CUST00388Michelle Taylor    customer388@email.com1768   Pine RdSan AntonioNY    58364 282024-08-04   18     312.9Active
+                                                 399-
+                                                 781-   9226
+CUST00389James     Wilson   customer389@email.com2220   Main St New York FL     20183 392023-11-29   43   1286.45Premium
+                                                 861-   342
+                                                 303-   Park
+CUST00390Emily     Thomas customer390@email.com1702     Blvd    Houston   CA    59846 482023-01-16   39   2016.49Premium
+                                                 850-   9279
+                                                 955-   Park
+CUST00391Michael Taylor     customer391@email.com1842   Blvd    San Diego TX    11722 592024-09-04   40   3536.59Active
+                                                 882-
+                                                 810-   7549
+CUST00392Richard Smith      customer392@email.com1049   Pine RdSan AntonioTX    22731 652024-12-20   12   4348.53Inactive
+                                                 193-
+                                                 146-   533
+CUST00393Richard Williams customer393@email.com2740     Main St San Jose   MI   51386 662023-09-08   25   4730.46Premium
+                                                 471-
+                                                 677-   6150
+CUST00394Jennifer Thomas customer394@email.com8876      Elm Dr San Jose CA      78670 552023-10-20   27   1911.26Inactive
+                                                 364-   6819
+                                                 238-   Oak
+CUST00395Sarah     Wilson   customer395@email.com8137   Ave    Austin     VA    94133 572023-08-18   28     20.41Premium
+                                                 141-   3685
+                                                 749-   Park
+CUST00396Amanda Brown       customer396@email.com1972   Blvd   Los AngelesOH    85369 472024-02-19   28   1643.57Active
+                                                 137-
+                                                 199-   9932
+CUST00397Daniel    Johnson customer397@email.com5752    Main St San Jose   CA   70137 582024-03-26    6   3330.87Active
+                                                 912-
+                                                 503-   3291
+CUST00398Jessica Taylor     customer398@email.com8151   Elm Dr San AntonioWA    39505 442023-04-06    7   2261.26Active
+                                                 733-
+                                                 754-   9501
+CUST00399Michelle Jones     customer399@email.com9746   Elm Dr San Jose    MA   31149 712025-06-05   25    389.64Inactive
+                                                 871-
+                                                 295-   4923
+CUST00400Chris     Moore    customer400@email.com7520   Elm Dr Los AngelesCA    48197 502023-10-08   47    808.62Active
+                                                 942-
+                                                 698-   7803
+CUST00401Chris     Smith    customer401@email.com8734   Pine RdJacksonvilleNC   37384 502025-04-29   12    882.06Active
+                                                 545-   1507
+                                                 659-   Oak
+CUST00402James     Martin   customer402@email.com2751   Ave    San Jose VA      10214 432022-11-25    7   3102.31Inactive
+                                                 102-
+                                                 237-   3475
+CUST00403Elizabeth Miller   customer403@email.com8818   Elm Dr Austin      NY   41922 772024-09-16   47    159.45Inactive
+                                                 949-
+                                                 517-   2017 San
+CUST00404Chris     Martinez customer404@email.com2044   Pine RdFrancisco   PA   40163 602023-07-07   11    1588.5Premium
+                                                 724-   1196
+                                                 615-   Park
+CUST00405Helen     Martinez customer405@email.com8307   Blvd   Phoenix     MI   57163 752024-10-19   10    772.33Inactive
+                                                  917-   4339
+                                                  180-   Oak
+CUST00406Jennifer   Martinez customer406@email.com5428   Ave      PhiladelphiaGA   41661 352023-03-20   25   4473.08Inactive
+                                                  494-
+                                                  803-   3606 San
+CUST00407Emily      Williams customer407@email.com6808   Pine RdFrancisco VA       29179 492023-07-03   30    277.05Active
+                                                  889-   3342
+                                                  475-   Oak
+CUST00408David      Martin   customer408@email.com8250   Ave    Fort Worth AZ      97705 202025-04-23    3   2854.72Inactive
+                                                  114-   4119
+                                                  964-   Park
+CUST00409Robert     Hernandezcustomer409@email.com8790   Blvd   JacksonvilleTX     93730 542024-07-26   30       429Inactive
+                                                  958-
+                                                  620-   3276
+CUST00410Lisa       Miller   customer410@email.com2535   Elm Dr   Los AngelesCA    81526 802022-11-17    5   3534.73Active
+                                                  578-   7062
+                                                  948-   Park
+CUST00411Jennifer   Wilson   customer411@email.com8412   Blvd     Houston    FL    70125 582023-09-08   46   2045.23Inactive
+                                                  109-   4142
+                                                  349-   Park
+CUST00412Amanda     Davis    customer412@email.com3975   Blvd     Fort Worth WA    76197 742024-12-24   46   4418.66Premium
+                                                  976-   7810
+                                                  487-   Oak
+CUST00413David      Thomas customer413@email.com6745     Ave      Houston    NC    32588 642022-10-25   37     18.43Premium
+                                                  372-
+                                                  327-   7744
+CUST00414Sarah      Gonzalez customer414@email.com6583   Elm Dr Austin       OH    94173 252024-10-25   44   1726.02Active
+                                                  804-
+                                                  711-   906
+CUST00415Jessica    Gonzalez customer415@email.com6951   Pine RdPhoenix   PA       60296 562022-11-02    4   1552.28Premium
+                                                  724-   4561
+                                                  316-   Park
+CUST00416Amanda     Moore    customer416@email.com5112   Blvd   San Diego PA       94148 382025-01-25   31   2462.75Active
+                                                  553-   895
+                                                  637-   Oak
+CUST00417Jennifer   Smith    customer417@email.com2376   Ave    Austin    NC       43021 722024-09-21    3    284.61Inactive
+                                                  128-
+                                                  360-   8787
+CUST00418Robert     Miller   customer418@email.com7145   Pine RdSan Diego IL       47658 222025-03-09   48   1355.43Active
+                                                  692-   3794
+                                                  923-   Oak
+CUST00419Richard    Brown    customer419@email.com2133   Ave    Austin    GA       98367 322023-06-21   38     63.42Premium
+                                                  343-
+                                                  975-   6290
+CUST00420Chris      Hernandezcustomer420@email.com7670   Elm Dr San AntonioFL      99254 202024-08-31   13   4854.66Inactive
+                                                  124-
+                                                  546-   5334
+CUST00421Amanda     Davis    customer421@email.com9081   Elm Dr PhiladelphiaCA     73633 682023-05-28   11   1089.98Inactive
+                                                  543-   5500
+                                                  452-   Park
+CUST00422Robert     Smith    customer422@email.com5218   Blvd   Fort Worth NC      33055 492024-01-10    8   2732.09Premium
+                                                  697-
+                                                  209-   8835
+CUST00423Helen      Anderson customer423@email.com1851   Pine RdFort Worth WA      91410 422023-01-01   12   1396.89Inactive
+                                                  892-   1385
+                                                  675-   Park San
+CUST00424Amanda     Garcia   customer424@email.com3910   Blvd   Francisco VA       16690 322023-02-21   45    1043.9Premium
+                                                  441-   3211
+                                                  193-   Park
+CUST00425Jennifer   Johnson customer425@email.com6764    Blvd   New York WA        86512 772023-03-04   21   1443.76Inactive
+                                                  429-
+                                                  887-   7723
+CUST00426Ashley     Thomas customer426@email.com8318     Elm Dr San Jose OH        95969 472022-11-17   20   4909.16Inactive
+                                                  279-   2357
+                                                  474-   Oak
+CUST00427Robert     Taylor   customer427@email.com4928   Ave    San AntonioNY      73558 342022-10-31   42   1171.95Premium
+                                                  913-   6682
+                                                  804-   Oak
+CUST00428Michael    Williams customer428@email.com1525   Ave    Phoenix    WA      68852 482024-06-27   32   3396.45Inactive
+                                                  858-
+                                                  914-   9462
+CUST00429Ashley     Johnson customer429@email.com5903    Main St San Jose TX       98846 392023-04-16   10   4143.49Inactive
+                                                  206-   8349
+                                                  150-   Park
+CUST00430Ashley     Martin   customer430@email.com1826   Blvd    Fort Worth FL     87183 182024-03-08   25   4524.25Inactive
+                                                  686-
+                                                  576-   168
+CUST00431Michelle   Martin   customer431@email.com6138   Main St San Diego AZ      27816 682024-10-24   21   4795.04Premium
+                                                  905-
+                                                  309-   2370
+CUST00432Amanda     Jackson customer432@email.com2429    Elm Dr Austin    MA       56270 712025-04-20   30   1392.36Inactive
+                                                  537-   3150
+                                                  116-   Park
+CUST00433Robert     Hernandezcustomer433@email.com3881   Blvd   San Diego CA       91850 192025-01-12   12   2750.59Inactive
+                                                  501-
+                                                  758-   1695
+CUST00434Amanda     Martin   customer434@email.com5974   Pine RdSan AntonioOH      31052 412025-05-14   22   1948.57Inactive
+                                                    976-
+                                                    315-   2711
+CUST00435Emily      Johnson    customer435@email.com1905   Main St San Diego CA      15399 382025-01-31   35   3628.94Inactive
+                                                    389-
+                                                    640-   2846     San
+CUST00436Elizabeth Wilson      customer436@email.com5734   Elm Dr   Francisco   FL   49807 652024-09-12   33   3517.23Active
+                                                    677-   6705
+                                                    973-   Oak
+CUST00437Matthew Miller        customer437@email.com8139   Ave      JacksonvilleGA   83214 202024-12-14   46   1934.17Active
+                                                    257-   2222
+                                                    410-   Oak
+CUST00438Jessica    Thomas     customer438@email.com1882   Ave      PhiladelphiaMI   63877 262025-04-11   28     826.1Premium
+                                                    297-
+                                                    989-   5954
+CUST00439Sarah      Martin     customer439@email.com7064   Main St Columbus WA       93812 542024-12-30   21   3049.14Premium
+                                                    620-
+                                                    169-   6234
+CUST00440David      Gonzalez   customer440@email.com9810   Main St San Jose     NY   85480 212024-09-21   38   2745.78Inactive
+                                                    221-
+                                                    483-   6785
+CUST00441Emily      Miller     customer441@email.com6411   Main St Chicago     AZ    39137 292025-01-09   25   3798.97Active
+                                                    454-   5051
+                                                    931-   Oak
+CUST00442Emily      Smith      customer442@email.com5423   Ave     Houston     GA    36746 232022-11-05    5   1530.29Active
+                                                    186-   762
+                                                    732-   Oak
+CUST00443Michelle   Brown      customer443@email.com2050   Ave     PhiladelphiaNC    13193 752025-01-14   10    716.04Active
+                                                    643-   9271
+                                                    821-   Oak
+CUST00444Michelle   Moore      customer444@email.com2341   Ave     Chicago     AZ    65616 552025-02-22   16   4030.59Active
+                                                    958-
+                                                    609-   6655
+CUST00445Chris      Garcia     customer445@email.com8966   Elm Dr San AntonioCA      67162 342023-07-16   29   2819.56Active
+                                                    385-
+                                                    647-   9769
+CUST00446Sarah      Garcia     customer446@email.com3977   Elm Dr San Diego FL       37331 202025-01-06   10   1881.65Active
+                                                    857-
+                                                    200-   2109 San
+CUST00447Chris      Wilson     customer447@email.com7644   Main St Francisco    WA   71353 702023-02-05   23   3574.69Premium
+                                                    199-
+                                                    712-   7187
+CUST00448John       Gonzalez   customer448@email.com5384   Pine RdColumbus NC        52727 612025-06-04   39   3964.52Inactive
+                                                    404-
+                                                    648-   3297
+CUST00449William    Williams   customer449@email.com8254   Elm Dr Chicago       VA   39252 662024-06-13   25    253.73Active
+                                                    620-
+                                                    215-   5930
+CUST00450Amanda Johnson        customer450@email.com9164   Pine RdSan Jose      NJ   27236 712024-06-06    3   3491.16Inactive
+                                                    183-
+                                                    159-   8855
+CUST00451Ashley     Taylor     customer451@email.com5461   Pine RdPhoenix    IL      60560 382024-06-06   35     79.84Inactive
+                                                    171-   1839
+                                                    918-   Oak
+CUST00452Amanda Rodriguez      customer452@email.com1781   Ave    Los AngelesOH      57826 742025-06-17    4    108.92Premium
+                                                    733-   127
+                                                    457-   Park
+CUST00453Richard    Martinez   customer453@email.com6877   Blvd   Fort Worth NC      23567 682022-12-29   47   1869.14Active
+                                                    785-
+                                                    535-   6146
+CUST00454Helen      Wilson     customer454@email.com3249   Pine RdColumbus NJ        18421 742022-12-24   26   1500.11Inactive
+                                                    573-   6955
+                                                    582-   Oak
+CUST00455James      Lopez      customer455@email.com7738   Ave    Austin   CA        42296 622025-02-14   40     75.61Inactive
+                                                    904-
+                                                    196-   9587 San
+CUST00456Richard    Martinez   customer456@email.com2032   Main St Francisco AZ      61006 262024-10-21   43   3663.47Premium
+                                                    354-   5679
+                                                    497-   Park
+CUST00457James      Anderson   customer457@email.com1847   Blvd    Houston    NY     88613 702023-05-05   15   3828.35Inactive
+                                                    439-   2174
+                                                    843-   Oak
+CUST00458John       Martin     customer458@email.com3951   Ave     Fort Worth NC     41440 462024-07-13    9   4842.59Premium
+                                                    926-
+                                                    670-   5277
+CUST00459Matthew Brown         customer459@email.com7393   Main St Houston      FL   75199 532024-12-12   19   1315.34Premium
+                                                    145-   9398
+                                                    908-   Oak
+CUST00460Matthew Rodriguez     customer460@email.com3000   Ave     New York     WA   38181 472022-12-05   25   3981.36Active
+                                                    274-
+                                                    672-   6928
+CUST00461Matthew Jones         customer461@email.com4725   Elm Dr Austin        NJ   89946 342024-07-11   38    847.43Premium
+                                                    667-   4407
+                                                    337-   Park
+CUST00462Chris      Martinez   customer462@email.com8233   Blvd   Chicago       OH   98420 422024-12-09   39   1602.33Premium
+                                                    698-
+                                                    679-   9945
+CUST00463Michelle   Moore      customer463@email.com7065   Elm Dr JacksonvilleWA     76200 182024-11-24   17   1778.22Inactive
+                                                      444-
+                                                      233-   327
+CUST00464Ashley     Thomas      customer464@email.com7495    Main St Fort Worth GA   12519 732023-01-28   36    3756.7Premium
+                                                      490-
+                                                      741-   8123
+CUST00465Jessica    Martinez    customer465@email.com8711    Pine RdNew York    AZ   95968 222023-10-12   18   2594.55Inactive
+                                                      829-
+                                                      446-   7179
+CUST00466Jessica    Williams    customer466@email.com9037    Elm Dr Dallas      IL   58452 542024-10-01   18   4788.33Active
+                                                      159-
+                                                      744-   968
+CUST00467Amanda Martin          customer467@email.com7021    Pine RdSan AntonioNC    28798 322025-06-25   31   1030.58Active
+                                                      756-   4977
+                                                      132-   Oak
+                                                      9948   Ave
+CUST00468Ashley     Martinez    customer468@email.com               JacksonvillePA   40437 572024-04-21   35   4391.57Premium
+                                                      138-   2032
+                                                      451-   Park
+CUST00469Jessica    Garcia      customer469@email.com3391    Blvd   San Jose AZ      88909 782024-09-25   31     98.84Inactive
+                                                      150-
+                                                      968-   6552
+CUST00470Jennifer   Moore       customer470@email.com5546    Main St Chicago    VA   40950 272024-06-12   43    2188.5Inactive
+                                                      127-   2831
+                                                      203-   Park
+CUST00471Lisa       Brown       customer471@email.com7695    Blvd    Houston    NY   64902 772025-03-07   50   1487.11Premium
+                                                      912-
+                                                      835-   9341
+CUST00472Sarah      Jackson     customer472@email.com9713    Pine RdNew York    NC   98710 662023-10-14   41   2969.71Premium
+                                                      773-
+                                                      151-   8506
+CUST00473Matthew Jones          customer473@email.com7803    Pine RdColumbus CA      58906 692024-04-09   34   4785.51Inactive
+                                                      438-
+                                                      715-   1155
+CUST00474Daniel     Brown       customer474@email.com5031    Elm Dr Los AngelesFL    38589 502025-02-08   16     727.1Premium
+                                                      252-
+                                                      905-   7905
+CUST00475Jennifer   Moore       customer475@email.com9770    Main St Fort Worth FL   61662 192023-03-14   20   2642.26Premium
+                                                      319-
+                                                      854-   2316
+CUST00476Lisa       Miller      customer476@email.com5756    Pine RdColumbus PA      39769 302023-01-25    2   2160.41Inactive
+                                                      779-   2171
+                                                      359-   Oak
+CUST00477John       Wilson      customer477@email.com3754    Ave    Phoenix  NC      41995 402023-12-25    5   1695.31Inactive
+                                                      445-
+                                                      856-   7326
+CUST00478Amanda Smith           customer478@email.com1577    Pine RdSan Jose    NJ   65611 212024-11-28    4   1396.65Inactive
+                                                      344-
+                                                      892-   1386
+CUST00479Elizabeth Martinez     customer479@email.com7414    Main St Fort Worth NY   17331 792025-01-20   20   2997.12Inactive
+                                                      348-
+                                                      520-   6099
+CUST00480Amanda Gonzalez        customer480@email.com2012    Pine RdSan Jose    IL   83038 222024-12-03   31     73.34Inactive
+                                                      589-
+                                                      341-   8232
+CUST00481Amanda Gonzalez        customer481@email.com8999    Elm Dr PhiladelphiaWA   83891 622024-12-20   14   3487.86Premium
+                                                      215-   3762
+                                                      371-   Oak
+CUST00482James      Jones       customer482@email.com6721    Ave    Houston     IL   18843 192024-01-11   19   2605.93Active
+                                                      546-
+                                                      884-   834
+CUST00483Chris      Miller      customer483@email.com7475    Pine RdChicago     NJ   72440 482025-06-17   15   1445.39Premium
+                                                      679-
+                                                      681-   634
+CUST00484Ashley     Rodriguez   customer484@email.com3050    Elm Dr Houston     MI   84085 382024-05-27   26   1150.55Active
+                                                      236-
+                                                      645-   1215
+CUST00485Matthew Jackson        customer485@email.com3811    Elm Dr PhiladelphiaIL   78384 472022-11-17   29   3402.72Active
+                                                      741-
+                                                      935-   4698
+CUST00486Jessica    Williams    customer486@email.com9280    Pine RdDallas      NJ   77677 222025-02-06   12     12.29Active
+                                                      798-   8862
+                                                      193-   Oak
+CUST00487Helen      Moore       customer487@email.com2968    Ave    Dallas      MI   69213 582023-10-24   33   3277.02Premium
+                                                      933-
+                                                      970-   8147
+CUST00488Sarah      Gonzalez    customer488@email.com9870    Elm Dr New York AZ      77873 422025-05-18   15   1923.42Inactive
+                                                      317-   8506
+                                                      579-   Oak
+CUST00489Ashley     Johnson     customer489@email.com4565    Ave    San AntonioGA    67225 192023-04-30   14   4992.32Inactive
+                                                      945-
+                                                      352-   7588
+CUST00490Richard    Taylor      customer490@email.com1805    Main St San Jose NY     51709 792024-05-25   18   1945.93Premium
+                                                      129-   4156
+                                                      280-   Oak
+CUST00491Chris      Lopez       customer491@email.com6372    Ave     San AntonioVA   21167 452024-12-18   44   4834.39Active
+                                                      231-
+                                                      410-   6224
+CUST00492Richard    Martin      customer492@email.com2545    Main St Dallas     MI   73526 382025-06-05   44     25.97Inactive
+                                                819-   5032
+                                                350-   Oak
+CUST00493William Davis    customer493@email.com8846    Ave    Fort Worth PA     46364 782022-10-28   27   1237.13Inactive
+                                                960-   5075
+                                                924-   Oak
+                                                5709   Ave
+CUST00494James   Lopez    customer494@email.com               Dallas       OH   73093 402023-08-16   18   4490.19Active
+                                                357-
+                                                945-   5753 San
+CUST00495Amanda Hernandezcustomer495@email.com2251     Main St Francisco   OH   24635 582024-10-01   50   4074.24Premium
+                                                845-
+                                                546-   2886
+CUST00496Michael Anderson customer496@email.com9467    Elm Dr Fort Worth GA     86489 532022-11-20   42    3174.8Inactive
+                                                897-
+                                                866-   1760
+CUST00497James   Smith    customer497@email.com7041    Main St Chicago     PA   52661 292024-12-15   11   1957.05Active
+                                                758-   679
+                                                267-   Park
+CUST00498Richard Gonzalez customer498@email.com5827    Blvd    Chicago     IL   49791 532023-03-09   38   2452.46Premium
+                                                134-
+                                                797-   8803
+CUST00499Sarah   Brown    customer499@email.com5266    Elm Dr Houston      MA   89823 242025-06-05   37   3088.09Active
+                                                208-
+                                                990-   6897
+CUST00500Daniel  Martin   customer500@email.com1771    Pine RdColumbus IL       65843 232024-09-18   40    119.72Premium
+
